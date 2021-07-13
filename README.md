@@ -1,6 +1,5 @@
 # Car Depreciation Analysis
 
-[Kaggle Used Cars Data Pakistan](https://www.kaggle.com/karimali/used-cars-data-pakistan/)  
 
 ## [Table of Contents](#table-of-contents)
 
