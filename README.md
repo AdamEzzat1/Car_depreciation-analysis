@@ -4,11 +4,11 @@
 
 ## [Table of Contents](#table-of-contents)
 
-1. [Report](https://docs.google.com/document/d/1wZ3qS7wx8Me2SjAUeEmiceNjyG_RqWtmhj9rrlSoCtY/edit)
+1. [Report](https://github.com/sethorus30/Car_depreciation-analysis/blob/main/KBB_Machinelearning_depreciation.pdf)
     
    
     
- 2. [Presentation](https://docs.google.com/presentation/d/1eILZgGDAu2hmp4svdQTobxAEfFhRe7a7B7V9mey3CRU/edit#slide=id.gc8248dda35_0_1417) 
+ 2. [Presentation](https://github.com/sethorus30/Car_depreciation-analysis/blob/main/Depreciation%20of%20used%20cars%20in%20a%20foreign%20market.pdf) 
  
 
  
